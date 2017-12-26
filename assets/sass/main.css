@@ -1,4 +1,5 @@
 $font-stack:  Helvetica, sans-serif;
+$primary-color; blue;
 
 body {
   font: 100% $font-stack;
