@@ -1,3 +1,5 @@
+This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
+
 Attribution 4.0 International (CC BY 4.0)
 This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
 You are free to:
